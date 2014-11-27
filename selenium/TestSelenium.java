@@ -297,7 +297,7 @@ public class TestSelenium  {
     }
     
     public static void testCase7(){
-    	System.out.println("\n\nTEST CASE: Testing case insensitivity of “farenheitTemperature");
+    	System.out.println("\n\nTEST CASE: Testing case insensitivity of “farenheitTemperature\"");
     	 WebDriver driver1 = new HtmlUnitDriver();
     	 driver1.get("http://apt-public.appspot.com/testing-lab-conversion?faRENhEITTemPeraTurE=100");
     	 if (driver1.getTitle().equals("No Temperature")){

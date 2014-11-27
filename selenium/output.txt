@@ -38,5 +38,5 @@ TEST CASE: Temperature invalid input temperatures
 TEST PASSED: Number format exception for invalid input:trust
 
 
-TEST CASE: Testing case insensitivity of “farenheitTemperature
+TEST CASE: Testing case insensitivity of “farenheitTemperature"
 BUG DETECTED : farenheitTemperature is case sensitive
