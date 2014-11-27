@@ -1,0 +1,42 @@
+TEST CASE: Check the three valid users
+Login successful for andy
+Login successful for bob
+Login successful for charley
+Login failed for sree
+
+
+TEST CASE: Usernames are case insensitive
+passwords are case-sensitive
+leading/trailing spaces are immaterial
+Login failed for andy
+Login failed for bob
+Login successful for charley 
+
+
+TEST CASE: Three failed logins in 10 seconds leading to lockout
+Login failed for user1:1
+Login failed for user2:2
+Login failed for user3:3
+LOCKOUT TEST: Three failed logins in 10 seconds
+BUG DETECTED : NO LOCKOUT WITH THREE FAILED LOGINS
+
+
+TEST CASE: Temperature results precision
+TEST PASSED: Converted Temperatures between 0 to 212 have double precision
+90 Farenheit = 87.78 Celsius
+BUG DETECTED : Converted Temperatures out of [0-212] range have double precision
+451 Farenheit = 232.78 Celsius
+
+
+TEST CASE: Temperature input as floating point numbers
+TEST PASSED: 97F
+TEST PASSED: -3.14
+BUG DETECTED : Accepts 9.73E2
+
+
+TEST CASE: Temperature invalid input temperatures
+TEST PASSED: Number format exception for invalid input:trust
+
+
+TEST CASE: Testing case insensitivity of “farenheitTemperature
+BUG DETECTED : farenheitTemperature is case sensitive
