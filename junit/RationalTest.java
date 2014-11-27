@@ -229,7 +229,6 @@ public class RationalTest extends TestCase {
     
     //27.
     public void testNr(){
-    	System.out.println("\nTesting numerator ");
     	Rational r = new Rational(2147483647*2,1);
     	assertFalse("Nr out of range not handled", r.numerator()==-2);
     	
@@ -237,7 +236,6 @@ public class RationalTest extends TestCase {
     
     //28.
     public void testDr(){
-    	System.out.println("\nTesting denominator ");
     	Rational r = new Rational(1,2147483647*2);
     	assertFalse("Dr out of range not handled", r.denominator()==-2);
     	

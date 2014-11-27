@@ -1,0 +1,224 @@
+.F...............46341* 46341 = -2147479015
+46340* 46340 = 2147395600
+low high: 0/1 46340/1
+square of midpoint is: 536848900/1
+low high: 0/1 23170/1
+square of midpoint is: 134212225/1
+low high: 11585/1 23170/1
+square of midpoint is: 1207910025/4
+low high: 11585/1 34755/2
+square of midpoint is: -939661671/16
+low high: 57925/4 34755/2
+square of midpoint is: -940189959/64
+low high: 127435/8 34755/2
+square of midpoint is: -2016177007/256
+low high: 127435/8 266455/16
+square of midpoint is: 1196815977/1024
+low high: 521325/32 266455/16
+square of midpoint is: -985094439/4096
+low high: 521325/32 1054235/64
+square of midpoint is: -1119807879/16384
+low high: 521325/32 2096885/128
+square of midpoint is: 1564544913/65536
+low high: 521325/32 4182185/256
+square of midpoint is: 1568500001/262144
+low high: 521325/32 8352785/512
+square of midpoint is: 1592244673/1048576
+low high: 521325/32 16693985/1024
+square of midpoint is: 1703072001/4194304
+low high: 33376385/2048 16693985/1024
+square of midpoint is: -1169980023/16777216
+low high: 33376385/2048 66764355/4096
+square of midpoint is: -1734498151/67108864
+low high: 133517125/8192 66764355/4096
+square of midpoint is: -78146823/268435456
+low high: 267045835/16384 66764355/4096
+square of midpoint is: 924839057/1073741824
+low high: 267045835/16384 534103255/32768
+square of midpoint is: 1/0
+low high: 267045835/16384 1068194925/65536
+square of midpoint is: -1/0
+low high: 2136378265/131072 1068194925/65536
+square of midpoint is: -1/0
+low high: -22199181/262144 1068194925/65536
+square of midpoint is: -1/0
+low high: -44386777/524288 1068194925/65536
+square of midpoint is: -1/0
+low high: -88761969/1048576 1068194925/65536
+square of midpoint is: -1/0
+low high: -177512353/2097152 1068194925/65536
+square of midpoint is: -1/0
+low high: -355013121/4194304 1068194925/65536
+square of midpoint is: 1/0
+low high: -355013121/4194304 -710014657/8388608
+square of midpoint is: 1/0
+F..46341* 46341 = -2147479015
+46340* 46340 = 2147395600
+low high: 0/1 46340/1
+square of midpoint is: 536848900/1
+low high: 0/1 23170/1
+square of midpoint is: 134212225/1
+low high: 0/1 11585/1
+square of midpoint is: 134212225/4
+low high: 0/1 11585/2
+square of midpoint is: 134212225/16
+low high: 0/1 11585/4
+square of midpoint is: 134212225/64
+low high: 0/1 11585/8
+square of midpoint is: 134212225/256
+low high: 0/1 11585/16
+square of midpoint is: 134212225/1024
+low high: 0/1 11585/32
+square of midpoint is: 134212225/4096
+low high: 0/1 11585/64
+square of midpoint is: 134212225/16384
+low high: 0/1 11585/128
+square of midpoint is: 134212225/65536
+low high: 0/1 11585/256
+square of midpoint is: 134212225/262144
+low high: 0/1 11585/512
+square of midpoint is: 134212225/1048576
+low high: 0/1 11585/1024
+square of midpoint is: 134212225/4194304
+low high: 0/1 11585/2048
+square of midpoint is: 134212225/16777216
+low high: 0/1 11585/4096
+square of midpoint is: 134212225/67108864
+low high: 0/1 11585/8192
+square of midpoint is: 134212225/268435456
+low high: 11585/16384 11585/8192
+square of midpoint is: 1207910025/1073741824
+low high: 34755/32768 11585/8192
+square of midpoint is: -1/0
+low high: 81095/65536 11585/8192
+square of midpoint is: 1/0
+low high: 81095/65536 173775/131072
+square of midpoint is: 1/0
+low high: 81095/65536 335965/262144
+square of midpoint is: -1/0
+low high: 660345/524288 335965/262144
+square of midpoint is: 1/0
+low high: 660345/524288 1332275/1048576
+square of midpoint is: -1/0
+low high: 2652965/2097152 1332275/1048576
+square of midpoint is: -1/0
+low high: 5317515/4194304 1332275/1048576
+square of midpoint is: 1/0
+low high: 5317515/4194304 10646615/8388608
+square of midpoint is: -1/0
+Root of half is 42574875/33554432
+..46341* 46341 = -2147479015
+46340* 46340 = 2147395600
+low high: 0/1 46340/1
+square of midpoint is: 536848900/1
+low high: 0/1 23170/1
+square of midpoint is: 134212225/1
+low high: 0/1 11585/1
+square of midpoint is: 134212225/4
+low high: 0/1 11585/2
+square of midpoint is: 134212225/16
+low high: 0/1 11585/4
+square of midpoint is: 134212225/64
+low high: 0/1 11585/8
+square of midpoint is: 134212225/256
+low high: 0/1 11585/16
+square of midpoint is: 134212225/1024
+low high: 0/1 11585/32
+square of midpoint is: 134212225/4096
+low high: 0/1 11585/64
+square of midpoint is: 134212225/16384
+low high: 0/1 11585/128
+square of midpoint is: 134212225/65536
+low high: 0/1 11585/256
+square of midpoint is: 134212225/262144
+low high: 0/1 11585/512
+square of midpoint is: 134212225/1048576
+low high: 0/1 11585/1024
+square of midpoint is: 134212225/4194304
+low high: 0/1 11585/2048
+square of midpoint is: 134212225/16777216
+low high: 0/1 11585/4096
+square of midpoint is: 134212225/67108864
+low high: 0/1 11585/8192
+square of midpoint is: 134212225/268435456
+low high: 0/1 11585/16384
+square of midpoint is: 134212225/1073741824
+low high: 11585/32768 11585/16384
+square of midpoint is: 1/0
+low high: 11585/32768 34755/65536
+square of midpoint is: -1/0
+low high: 57925/131072 34755/65536
+square of midpoint is: -1/0
+low high: 127435/262144 34755/65536
+square of midpoint is: -1/0
+low high: 266455/524288 34755/65536
+square of midpoint is: 1/0
+low high: 266455/524288 544495/1048576
+square of midpoint is: 1/0
+low high: 266455/524288 1077405/2097152
+square of midpoint is: 1/0
+low high: 266455/524288 2143225/4194304
+square of midpoint is: -1/0
+low high: 4274865/8388608 2143225/4194304
+square of midpoint is: -1/0
+F..F.F..F...F...F.F
+Time: 0.012
+There were 9 failures:
+1) testMinusOverflow(RationalTest)junit.framework.AssertionFailedError: Integer overflow for subtraction not handled
+	at RationalTest.testMinusOverflow(RationalTest.java:219)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+2) testRoot1(RationalTest)junit.framework.AssertionFailedError: Root Computation Method incorrect: sqrt(16/25) expected:<1454873913/33554432> but was:<4/5>
+	at RationalTest.testRoot1(RationalTest.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+3) testRoot(RationalTest)junit.framework.AssertionFailedError
+	at RationalTest.testRoot(RationalTest.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+4) testDr(RationalTest)junit.framework.AssertionFailedError: Dr out of range not handled
+	at RationalTest.testDr(RationalTest.java:240)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+5) testNr(RationalTest)junit.framework.AssertionFailedError: Nr out of range not handled
+	at RationalTest.testNr(RationalTest.java:233)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+6) testPlusOverflow(RationalTest)junit.framework.AssertionFailedError: Integer overflow for addtition not handled
+	at RationalTest.testPlusOverflow(RationalTest.java:202)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+7) testTimesOverflow(RationalTest)junit.framework.AssertionFailedError: Integer overflow for multipliation not handled
+	at RationalTest.testTimesOverflow(RationalTest.java:211)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+8) testDenominator(RationalTest)junit.framework.AssertionFailedError: Denominator cannot be 0
+	at RationalTest.testDenominator(RationalTest.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+9) testDivideOverflow(RationalTest)junit.framework.AssertionFailedError: Integer overflow for division not handled
+	at RationalTest.testDivideOverflow(RationalTest.java:227)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at RationalTest.main(RationalTest.java:249)
+
+FAILURES!!!
+Tests run: 32,  Failures: 9,  Errors: 0
+
