@@ -62,29 +62,6 @@ public class TestConverterServlet extends TestCase {
 	assertEquals(expected,response.getOutputStreamContents().trim());
   }
  
-  public void test_boil_mockoff() throws Exception {
-	    TestingLabConverterServlet s = new TestingLabConverterServlet();
-	      MockHttpServletRequest request =
-		        new MockHttpServletRequest();
-	    MockHttpServletResponse response =
-	        new MockHttpServletResponse();
-    String wUrl = "http://api.openweathermap.org/data/2.5/weather?q=Austin";
-    String rawText = Resources.toString(new URL(wUrl), Charsets.UTF_8);
-    JSONObject jObject = new JSONObject(rawText);
-    JSONObject main = jObject.getJSONObject("main");
-    String temperature = main.getString("temp");
-	CityTemperatureServiceProvider.turnOffMockMode();
-    request.setupAddParameter("farenheitTemperature", "212");
-    response.setExpectedContentType("text/html");
-    s.doGet(request,response);
-    response.verify();
-	String expected = "<html><head><title>Temperature Converter Result</title>"
-	    + "</head><body><h2>212 Farenheit = 100 Celsius "
-	    + "</h2>\n"
-	    + "<p><h3>The temperature in Austin is " + temperature  + " degrees Farenheit</h3>\n"          + "</body></html>";
-    assertEquals(expected,response.getOutputStreamContents().trim());
-  }	
-
     public static void main(String args[]) {	
 		String[] testCaseName =
 			{ TestConverterServlet.class.getName() };
